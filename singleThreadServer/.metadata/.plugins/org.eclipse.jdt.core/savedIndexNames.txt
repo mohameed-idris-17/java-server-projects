@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+D:\eclipse\workspace E\serverProject\singleThreadServer\.metadata\.plugins\org.eclipse.jdt.core
