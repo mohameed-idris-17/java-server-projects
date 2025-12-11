@@ -14,3 +14,6 @@ build/
 .project
 .classpath
 bin/
+.metadata/
+.lock
+.lock_info
